@@ -21,6 +21,9 @@
 ![Abdalah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalahsamh&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahsamh&layout=compact&theme=radical)  
 
+## 🐍 Snake Animation (GitHub Contributions)  
+![Snake Animation](https://github.com/abdalahsamh/abdalahsamh/blob/output/github-contribution-grid-snake.svg)  
+
 
 ## 🌱 Currently Learning  
 - Advanced React Patterns  
