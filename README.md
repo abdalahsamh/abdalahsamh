@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm Abdalah Samh!  
+![Coding](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
@@ -21,8 +22,7 @@
 ![Abdalah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalahsamh&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahsamh&layout=compact&theme=radical)  
 
-## 🐍 Snake Animation (GitHub Contributions)  
-![Snake Animation](https://github.com/abdalahsamh/abdalahsamh/blob/output/github-contribution-grid-snake.svg)  
+
 
 
 ## 🌱 Currently Learning  
@@ -30,8 +30,7 @@
 - Performance Optimization  
 - API Integration  
 
-## 🐍 Snake Animation (GitHub Contributions)  
-![Snake Animation](https://github.com/abdalahsamh/abdalahsamh/blob/output/github-contribution-grid-snake.svg)  
+
 
 ## 📬 Connect with Me  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201276765139)  
