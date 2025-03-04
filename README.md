@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Abdalah Samh!  
-![Coding](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
+
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
